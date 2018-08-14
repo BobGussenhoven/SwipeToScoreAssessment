@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cccffa6e107b22c4490f3f12b8903f05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPawnPrefab: {fileID: 1216049532361936, guid: 624b0eccc1ff2d242b03f2329fef0af2,
+      type: 2}
+  - resultScreenPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
